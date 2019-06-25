@@ -1,0 +1,6 @@
+
+“Hello world!”的N种写法
+https://blog.csdn.net/kilvdn/article/details/2316085
+
+多种编程语言的“hello world!”写法
+https://blog.csdn.net/yilovexing/article/details/53256713
